@@ -1,5 +1,6 @@
 # Lodge-Management-System
 
+FOR FULL PROJECT REPORT, MAIL AT: abhilashdutta999@gmail.com
 
 
  Login page
